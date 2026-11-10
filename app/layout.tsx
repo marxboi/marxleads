@@ -1,4 +1,3 @@
-// @ts-expect-error TypeScript may not resolve side-effect CSS imports in this setup.
 import "./globals.css";
 import type { ReactNode } from "react";
 
